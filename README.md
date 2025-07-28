@@ -1,0 +1,1 @@
+# readdy-quick-qr
